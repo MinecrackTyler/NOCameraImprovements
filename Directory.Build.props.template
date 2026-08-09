@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+
+  <PropertyGroup>
+    <NuclearOptionDir>C:/Program Files (x86)/Steam/steamapps/common/Nuclear Option</NuclearOptionDir>
+    <UnityEditorDir>C:/Program Files/Unity/Hub/Editor/2022.3.62f2</UnityEditorDir>
+
+    <BepInExPluginsDir>$(NuclearOptionDir)/BepInEx/plugins/</BepInExPluginsDir>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <GameManagedDir>$(NuclearOptionDir)/NuclearOption_Data/Managed</GameManagedDir>
+    <UnityManagedDir>$(UnityEditorDir)/Editor/Data/Managed/UnityEngine</UnityManagedDir>
+  </PropertyGroup>
+</Project>
