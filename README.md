@@ -5,4 +5,4 @@ All settings can have default configured via config manager, and are accessible 
 You will find the settings at the bottom, the menu is now scrollable.
 
 ## Current Features
-- Toggle for camera clipping through terrain (not water)
+- Toggle for free and control camera clipping through terrain/structures (not water)
